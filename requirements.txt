@@ -1,0 +1,8 @@
+flask
+numpy
+scikit-learn
+keras
+pandas
+pickle-mixin
+flask-sqlalchemy
+werkzeug
